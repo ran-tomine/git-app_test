@@ -1,4 +1,6 @@
 class TestsController < ApplicationController
-  def index
- end
 end
+class PostsController < ApplicationController
+  def index
+  end
+ end
